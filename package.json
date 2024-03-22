@@ -1,0 +1,16 @@
+{
+  "name": "pariaturquis",
+  "version": "1.0.0",
+  "description": "Multiple environment solution for Expo based React Native apps",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ChelseaErnser/pariaturquis.git"
+  },
+  "author": "ClementineYost",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  },
+  "bin": "./index.js"
+}
